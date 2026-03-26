@@ -11,7 +11,7 @@ Built with Next.js + FastAPI. Runs entirely in Docker. Optionally plugs into Ope
 You need Docker and Docker Compose. That's the whole dependency list.
 
 ```bash
-git clone https://github.com/yourusername/codepilot
+git clone https://github.com/satvikp29/codepilot
 cd codepilot
 docker-compose up --build
 ```
